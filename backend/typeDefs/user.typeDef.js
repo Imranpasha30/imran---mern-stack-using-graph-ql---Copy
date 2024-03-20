@@ -1,12 +1,15 @@
 const userTypeDef = `#graphql
 type User {
     _id:ID!
-    username: String!  
-    name:String!
-    password:String!
-    profilePicture:String
-    gender:String!
-    Admin: Boolean 
+    username:String!
+    email: String!
+    address: String!
+    city: String!
+    phonenumber: String!
+    password: String!
+    program: String!
+    favourite: String!
+    isAdmin: Boolean
 }
 type Query{
     users:[User!]
@@ -21,9 +24,14 @@ type Mutation{
 
 input SignUpInput{
     username:String!
-    name:String!
-    password:String!
-    gender:String! 
+    email: String!
+    address: String!
+    city: String!
+    phonenumber: String!
+    password: String!
+    program: String!
+    favourite: String!
+    isAdmin: Boolean
 }
 
 input LoginInput{
