@@ -13,25 +13,15 @@ This project is built using the MERN stack, which includes MongoDB, Express.js, 
 ## Preview Images
 
 ### Login Page
-<img src="https://komarev.com/ghpvc/?username=imranpasha30&label=Profile%20views&color=0e75b6&style=flat" alt="imranpasha30" /> 
+![login Page](https://github.com/Imranpasha30/imran---mern-stack-using-graph-ql---Copy/blob/master/Screenshot%202024-04-23%20220432.png)
 
 ### Course Dashboard Page
-!Course Dashboard
+![Course Dashboard](https://github.com/Imranpasha30/imran---mern-stack-using-graph-ql---Copy/blob/master/Screenshot%202024-04-23%20122702.png)
 
-### Course Update Page
-!Course Update
+### Course Histroy Section
+![Course Histroy Section](https://github.com/Imranpasha30/imran---mern-stack-using-graph-ql---Copy/blob/master/Screenshot%202024-04-23%20122725.png)
 
 ### Admin Page
-!Admin Page
+![Admin Page]![Course Histroy Section](https://github.com/Imranpasha30/imran---mern-stack-using-graph-ql---Copy/blob/master/Screenshot%202024-04-23%20122741.png)
 
-## Installation
-Provide instructions on how to install and run your project here.
 
-## Usage
-Guide users on how to use the platform after installation.
-
-## Contributing
-Information for developers on how to contribute to the project.
-
-## License
-Include the license information for your project here.
