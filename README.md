@@ -13,7 +13,7 @@ This project is built using the MERN stack, which includes MongoDB, Express.js, 
 ## Preview Images
 
 ### Login Page
-!Login Page
+<img src="https://komarev.com/ghpvc/?username=imranpasha30&label=Profile%20views&color=0e75b6&style=flat" alt="imranpasha30" /> 
 
 ### Course Dashboard Page
 !Course Dashboard
